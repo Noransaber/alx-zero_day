@@ -1,2 +1,2 @@
 My first readme
-neew update form github
+new update form github
